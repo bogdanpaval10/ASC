@@ -1,0 +1,820 @@
+2023-04-19 19:33:16,357 INFO: At the beginning of remove_from_cart 267 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,357 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 165.
+2023-04-19 19:33:16,358 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 34.
+2023-04-19 19:33:16,359 INFO: At the beginning of add_to_cart 154 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,359 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,362 INFO: At the beginning of publish 9 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,363 INFO: At the beginning of publish 32 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,363 INFO: At the beginning of publish 0 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,364 INFO: At the beginning of add_to_cart 140 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,365 INFO: At the beginning of add_to_cart 51 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,365 INFO: At the beginning of publish 13 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,366 INFO: At the beginning of publish 6 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,367 INFO: At the beginning of publish 29 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,367 INFO: At the beginning of add_to_cart 108 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,371 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,375 INFO: At the beginning of add_to_cart 241 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,376 INFO: At the beginning of publish 19 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,377 INFO: At the beginning of publish 17 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,378 INFO: At the beginning of add_to_cart 266 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,380 INFO: At the beginning of add_to_cart 89 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,470 INFO: At the beginning of add_to_cart 261 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,380 INFO: At the beginning of publish 2 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,382 INFO: At the beginning of add_to_cart 239 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,383 INFO: At the beginning of add_to_cart 255 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,387 INFO: At the beginning of add_to_cart 122 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,388 INFO: At the beginning of publish 43 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,390 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,391 INFO: At the beginning of add_to_cart 138 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,392 INFO: At the beginning of add_to_cart 73 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,393 INFO: At the beginning of add_to_cart 182 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,394 INFO: At the beginning of add_to_cart 225 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,395 INFO: At the beginning of add_to_cart 121 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,395 INFO: At the beginning of publish 21 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,396 INFO: At the beginning of add_to_cart 71 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,398 INFO: At the beginning of add_to_cart 230 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,401 INFO: At the beginning of add_to_cart 263 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,402 INFO: At the beginning of publish 27 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,403 INFO: At the beginning of publish 4 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,403 INFO: At the beginning of add_to_cart 27 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,478 INFO: At the beginning of add_to_cart 260 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,405 INFO: At the beginning of add_to_cart 211 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,411 INFO: At the beginning of publish 16 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,413 INFO: At the beginning of add_to_cart 112 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,417 INFO: At the beginning of add_to_cart 128 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,421 INFO: At the beginning of publish 1 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,428 INFO: At the beginning of add_to_cart 246 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,436 INFO: At the beginning of publish 30 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,439 INFO: At the beginning of publish 24 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,453 INFO: At the beginning of add_to_cart 242 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,455 INFO: At the beginning of add_to_cart 215 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,483 INFO: At the beginning of publish 35 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,460 INFO: At the beginning of add_to_cart 257 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,460 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 185.
+2023-04-19 19:33:16,462 INFO: At the beginning of publish 20 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,462 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 8.
+2023-04-19 19:33:16,462 INFO: At the beginning of add_to_cart 83 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,464 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 9.
+2023-04-19 19:33:16,465 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 32.
+2023-04-19 19:33:16,465 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 0.
+2023-04-19 19:33:16,467 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 13.
+2023-04-19 19:33:16,467 INFO: At the beginning of add_to_cart 262 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,467 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 6.
+2023-04-19 19:33:16,468 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 29.
+2023-04-19 19:33:16,469 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 19.
+2023-04-19 19:33:16,470 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 17.
+2023-04-19 19:33:16,380 INFO: At the beginning of add_to_cart 70 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,471 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 2.
+2023-04-19 19:33:16,473 INFO: Full!
+2023-04-19 19:33:16,473 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 36.
+2023-04-19 19:33:16,476 INFO: At the beginning of add_to_cart 117 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,476 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 21.
+2023-04-19 19:33:16,477 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 27.
+2023-04-19 19:33:16,404 INFO: At the beginning of add_to_cart 153 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,478 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 4.
+2023-04-19 19:33:16,479 INFO: At the beginning of add_to_cart 59 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,480 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 16.
+2023-04-19 19:33:16,481 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-19 19:33:16,482 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 30.
+2023-04-19 19:33:16,482 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 24.
+2023-04-19 19:33:16,460 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 183.
+2023-04-19 19:33:16,483 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 35.
+2023-04-19 19:33:16,484 INFO: At the beginning of publish 45 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,485 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 20.
+2023-04-19 19:33:16,484 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 269.
+2023-04-19 19:33:16,486 INFO: At the beginning of publish 37 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,486 INFO: At the beginning of add_to_cart 218 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,488 INFO: At the beginning of add_to_cart 57 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,491 INFO: At the beginning of add_to_cart 217 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,494 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 183.
+2023-04-19 19:33:16,494 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 45.
+2023-04-19 19:33:16,495 INFO: At the beginning of add_to_cart 269 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,495 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 40.
+2023-04-19 19:33:16,496 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 37.
+2023-04-19 19:33:16,496 INFO: At the beginning of publish 38 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,496 INFO: At the beginning of add_to_cart 77 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,497 INFO: At the beginning of remove_from_cart 183 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,498 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 234.
+2023-04-19 19:33:16,498 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 118.
+2023-04-19 19:33:16,499 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 38.
+2023-04-19 19:33:16,500 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 234.
+2023-04-19 19:33:16,500 INFO: At the beginning of add_to_cart 118 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,501 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 267.
+2023-04-19 19:33:16,501 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 154.
+2023-04-19 19:33:16,501 INFO: At the beginning of remove_from_cart 234 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,502 INFO: At the beginning of publish 48 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,502 INFO: At the beginning of add_to_cart 248 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,502 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 267.
+2023-04-19 19:33:16,503 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 140.
+2023-04-19 19:33:16,504 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 48.
+2023-04-19 19:33:16,504 INFO: At the beginning of publish 12 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,504 INFO: At the beginning of remove_from_cart 267 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,505 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 51.
+2023-04-19 19:33:16,505 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 12.
+2023-04-19 19:33:16,506 INFO: At the beginning of publish 42 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,506 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 108.
+2023-04-19 19:33:16,507 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 42.
+2023-04-19 19:33:16,507 INFO: At the beginning of add_to_cart 108 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,508 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 265.
+2023-04-19 19:33:16,508 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,509 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 241.
+2023-04-19 19:33:16,509 INFO: At the beginning of add_to_cart 241 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,510 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 266.
+2023-04-19 19:33:16,510 INFO: At the beginning of add_to_cart 266 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,511 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,511 INFO: At the beginning of add_to_cart 89 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,511 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 261.
+2023-04-19 19:33:16,512 INFO: At the beginning of add_to_cart 261 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,512 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 239.
+2023-04-19 19:33:16,513 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 255.
+2023-04-19 19:33:16,514 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 122.
+2023-04-19 19:33:16,514 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 138.
+2023-04-19 19:33:16,515 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 73.
+2023-04-19 19:33:16,516 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 182.
+2023-04-19 19:33:16,516 INFO: At the beginning of add_to_cart 182 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,516 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 225.
+2023-04-19 19:33:16,517 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 121.
+2023-04-19 19:33:16,518 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 71.
+2023-04-19 19:33:16,518 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 230.
+2023-04-19 19:33:16,519 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 263.
+2023-04-19 19:33:16,519 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 27.
+2023-04-19 19:33:16,520 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 260.
+2023-04-19 19:33:16,521 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 211.
+2023-04-19 19:33:16,521 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 112.
+2023-04-19 19:33:16,522 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 128.
+2023-04-19 19:33:16,522 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 246.
+2023-04-19 19:33:16,523 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 242.
+2023-04-19 19:33:16,523 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 215.
+2023-04-19 19:33:16,524 INFO: At the beginning of add_to_cart 220 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,524 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 257.
+2023-04-19 19:33:16,525 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 83.
+2023-04-19 19:33:16,525 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 262.
+2023-04-19 19:33:16,526 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 70.
+2023-04-19 19:33:16,527 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 117.
+2023-04-19 19:33:16,527 INFO: At the beginning of publish 44 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,527 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 153.
+2023-04-19 19:33:16,528 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 44.
+2023-04-19 19:33:16,528 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 59.
+2023-04-19 19:33:16,529 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 218.
+2023-04-19 19:33:16,529 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 57.
+2023-04-19 19:33:16,530 INFO: At the beginning of publish 41 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,530 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 217.
+2023-04-19 19:33:16,531 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 41.
+2023-04-19 19:33:16,531 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 269.
+2023-04-19 19:33:16,532 INFO: At the beginning of add_to_cart 269 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,532 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 77.
+2023-04-19 19:33:16,533 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 183.
+2023-04-19 19:33:16,533 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 118.
+2023-04-19 19:33:16,533 INFO: At the beginning of publish 28 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,533 INFO: At the beginning of add_to_cart 37 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,533 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 183.
+2023-04-19 19:33:16,534 INFO: At the beginning of add_to_cart 118 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,534 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 234.
+2023-04-19 19:33:16,534 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 248.
+2023-04-19 19:33:16,534 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 28.
+2023-04-19 19:33:16,535 INFO: At the beginning of publish 23 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,535 INFO: At the beginning of remove_from_cart 183 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,537 INFO: At the beginning of publish 26 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,537 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 267.
+2023-04-19 19:33:16,536 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 234.
+2023-04-19 19:33:16,537 INFO: At the beginning of add_to_cart 248 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,537 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 108.
+2023-04-19 19:33:16,538 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 23.
+2023-04-19 19:33:16,539 INFO: At the beginning of publish 46 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,539 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 26.
+2023-04-19 19:33:16,539 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 267.
+2023-04-19 19:33:16,541 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 265.
+2023-04-19 19:33:16,541 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 46.
+2023-04-19 19:33:16,542 INFO: At the beginning of add_to_cart 166 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,542 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,542 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 241.
+2023-04-19 19:33:16,544 INFO: At the beginning of add_to_cart 241 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,544 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 266.
+2023-04-19 19:33:16,545 INFO: At the beginning of add_to_cart 266 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,545 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 89.
+2023-04-19 19:33:16,545 INFO: At the beginning of publish 20 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,546 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 261.
+2023-04-19 19:33:16,546 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 20.
+2023-04-19 19:33:16,547 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 182.
+2023-04-19 19:33:16,547 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 220.
+2023-04-19 19:33:16,548 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 269.
+2023-04-19 19:33:16,548 INFO: At the beginning of add_to_cart 269 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,548 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 37.
+2023-04-19 19:33:16,549 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 118.
+2023-04-19 19:33:16,550 INFO: At the beginning of remove_from_cart 118 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,550 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 183.
+2023-04-19 19:33:16,550 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 248.
+2023-04-19 19:33:16,551 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 183.
+2023-04-19 19:33:16,551 INFO: At the beginning of publish 31 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,552 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 166.
+2023-04-19 19:33:16,552 INFO: Successfully placed the order 183.
+2023-04-19 19:33:16,552 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 31.
+2023-04-19 19:33:16,553 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 265.
+2023-04-19 19:33:16,553 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,554 INFO: At the beginning of place_order 100.
+2023-04-19 19:33:16,554 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 241.
+2023-04-19 19:33:16,555 INFO: Successfully added the cart 270.
+2023-04-19 19:33:16,555 INFO: At the beginning of remove_from_cart 100 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,556 INFO: At the beginning of add_to_cart 241 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,556 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 266.
+2023-04-19 19:33:16,556 INFO: At the beginning of add_to_cart 270 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,557 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 269.
+2023-04-19 19:33:16,558 INFO: At the beginning of add_to_cart 269 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,558 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 118.
+2023-04-19 19:33:16,558 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 100.
+2023-04-19 19:33:16,558 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 241.
+2023-04-19 19:33:16,559 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 118.
+2023-04-19 19:33:16,559 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 100.
+2023-04-19 19:33:16,560 INFO: At the beginning of add_to_cart 241 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,560 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,560 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 270.
+2023-04-19 19:33:16,560 INFO: At the beginning of remove_from_cart 118 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,561 INFO: At the beginning of publish 21 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,561 INFO: At the beginning of remove_from_cart 100 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,562 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 36.
+2023-04-19 19:33:16,562 INFO: At the beginning of add_to_cart 270 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,562 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 269.
+2023-04-19 19:33:16,563 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 21.
+2023-04-19 19:33:16,564 INFO: At the beginning of add_to_cart 185 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,565 INFO: At the beginning of add_to_cart 269 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,565 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 241.
+2023-04-19 19:33:16,566 INFO: At the beginning of add_to_cart 241 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,566 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 118.
+2023-04-19 19:33:16,566 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 100.
+2023-04-19 19:33:16,566 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 270.
+2023-04-19 19:33:16,567 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 118.
+2023-04-19 19:33:16,567 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 100.
+2023-04-19 19:33:16,568 INFO: At the beginning of add_to_cart 270 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,568 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 185.
+2023-04-19 19:33:16,569 INFO: Successfully placed the order 100.
+2023-04-19 19:33:16,570 INFO: At the beginning of add_to_cart 185 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,570 INFO: Successfully added the product Tea(name='White Peach', price=5, type='White') in 269.
+2023-04-19 19:33:16,570 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,570 INFO: At the beginning of place_order 184.
+2023-04-19 19:33:16,570 INFO: At the beginning of publish 3 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,571 INFO: At the beginning of remove_from_cart 269 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,571 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 241.
+2023-04-19 19:33:16,571 INFO: Successfully added the cart 271.
+2023-04-19 19:33:16,572 INFO: At the beginning of remove_from_cart 184 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,572 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 3.
+2023-04-19 19:33:16,573 INFO: At the beginning of add_to_cart 241 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,573 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 270.
+2023-04-19 19:33:16,573 INFO: At the beginning of add_to_cart 271 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,575 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 185.
+2023-04-19 19:33:16,575 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 269.
+2023-04-19 19:33:16,576 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 184.
+2023-04-19 19:33:16,576 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 241.
+2023-04-19 19:33:16,576 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 269.
+2023-04-19 19:33:16,576 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 184.
+2023-04-19 19:33:16,577 INFO: At the beginning of add_to_cart 241 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,577 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 271.
+2023-04-19 19:33:16,577 INFO: At the beginning of publish 39 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,578 INFO: At the beginning of remove_from_cart 184 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,578 INFO: At the beginning of publish 19 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,579 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 241.
+2023-04-19 19:33:16,579 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 39.
+2023-04-19 19:33:16,580 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 19.
+2023-04-19 19:33:16,580 INFO: At the beginning of add_to_cart 91 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,580 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 184.
+2023-04-19 19:33:16,581 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 91.
+2023-04-19 19:33:16,582 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 184.
+2023-04-19 19:33:16,582 INFO: At the beginning of publish 4 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,582 INFO: At the beginning of remove_from_cart 184 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,583 INFO: At the beginning of publish 1 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,583 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 4.
+2023-04-19 19:33:16,583 INFO: At the beginning of publish 47 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,583 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 184.
+2023-04-19 19:33:16,583 INFO: At the beginning of add_to_cart 239 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,584 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-19 19:33:16,584 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 47.
+2023-04-19 19:33:16,585 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 184.
+2023-04-19 19:33:16,585 INFO: At the beginning of publish 25 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,585 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 239.
+2023-04-19 19:33:16,586 INFO: Successfully placed the order 184.
+2023-04-19 19:33:16,587 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 25.
+2023-04-19 19:33:16,588 INFO: At the beginning of place_order 72.
+2023-04-19 19:33:16,588 INFO: At the beginning of remove_from_cart 72 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,588 INFO: At the beginning of publish 15 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,589 INFO: At the beginning of publish 17 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,589 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 72.
+2023-04-19 19:33:16,590 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 15.
+2023-04-19 19:33:16,590 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 17.
+2023-04-19 19:33:16,590 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 72.
+2023-04-19 19:33:16,592 INFO: At the beginning of remove_from_cart 72 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,592 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 72.
+2023-04-19 19:33:16,592 INFO: At the beginning of publish 40 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,593 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 72.
+2023-04-19 19:33:16,593 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 40.
+2023-04-19 19:33:16,594 INFO: Successfully placed the order 72.
+2023-04-19 19:33:16,594 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,594 INFO: At the beginning of place_order 29.
+2023-04-19 19:33:16,595 INFO: Successfully added the cart 272.
+2023-04-19 19:33:16,595 INFO: At the beginning of remove_from_cart 29 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,596 INFO: At the beginning of add_to_cart 272 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,596 INFO: At the beginning of add_to_cart 74 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,596 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 29.
+2023-04-19 19:33:16,597 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 272.
+2023-04-19 19:33:16,597 INFO: At the beginning of publish 20 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,597 INFO: At the beginning of add_to_cart 199 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,598 INFO: At the beginning of add_to_cart 129 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,598 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 29.
+2023-04-19 19:33:16,598 INFO: At the beginning of add_to_cart 272 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,598 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 74.
+2023-04-19 19:33:16,599 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 20.
+2023-04-19 19:33:16,600 INFO: At the beginning of remove_from_cart 29 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,601 INFO: At the beginning of add_to_cart 74 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,601 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 199.
+2023-04-19 19:33:16,603 INFO: At the beginning of add_to_cart 199 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,603 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 129.
+2023-04-19 19:33:16,604 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 272.
+2023-04-19 19:33:16,604 INFO: At the beginning of add_to_cart 272 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,604 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 29.
+2023-04-19 19:33:16,604 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 74.
+2023-04-19 19:33:16,605 INFO: At the beginning of publish 49 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,605 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 29.
+2023-04-19 19:33:16,606 INFO: At the beginning of publish 11 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,606 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 199.
+2023-04-19 19:33:16,606 INFO: At the beginning of publish 18 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,607 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 49.
+2023-04-19 19:33:16,607 INFO: At the beginning of remove_from_cart 29 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,607 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 11.
+2023-04-19 19:33:16,608 INFO: At the beginning of publish 6 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,608 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 272.
+2023-04-19 19:33:16,608 INFO: At the beginning of add_to_cart 40 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,608 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 18.
+2023-04-19 19:33:16,610 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 6.
+2023-04-19 19:33:16,610 INFO: At the beginning of add_to_cart 272 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,611 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 29.
+2023-04-19 19:33:16,611 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 40.
+2023-04-19 19:33:16,612 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 29.
+2023-04-19 19:33:16,613 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 272.
+2023-04-19 19:33:16,613 INFO: At the beginning of publish 14 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,613 INFO: Successfully placed the order 29.
+2023-04-19 19:33:16,614 INFO: At the beginning of add_to_cart 272 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,614 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 14.
+2023-04-19 19:33:16,614 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,614 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,615 INFO: At the beginning of place_order 133.
+2023-04-19 19:33:16,615 INFO: Successfully added the product Tea(name='Pai Mu Tan', price=9, type='White') in 272.
+2023-04-19 19:33:16,616 INFO: Successfully added the cart 273.
+2023-04-19 19:33:16,617 INFO: At the beginning of remove_from_cart 133 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,617 INFO: At the beginning of add_to_cart 272 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,617 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 265.
+2023-04-19 19:33:16,618 INFO: At the beginning of add_to_cart 273 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,619 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 133.
+2023-04-19 19:33:16,619 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 272.
+2023-04-19 19:33:16,619 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 133.
+2023-04-19 19:33:16,620 INFO: At the beginning of add_to_cart 272 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,620 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,620 INFO: At the beginning of remove_from_cart 133 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,621 INFO: At the beginning of add_to_cart 273 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,621 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 272.
+2023-04-19 19:33:16,622 INFO: At the beginning of remove_from_cart 272 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,622 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 133.
+2023-04-19 19:33:16,622 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,623 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 133.
+2023-04-19 19:33:16,623 INFO: At the beginning of add_to_cart 273 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,623 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 272.
+2023-04-19 19:33:16,624 INFO: At the beginning of remove_from_cart 133 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,624 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,624 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 272.
+2023-04-19 19:33:16,625 INFO: At the beginning of add_to_cart 273 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,625 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 133.
+2023-04-19 19:33:16,625 INFO: At the beginning of publish 21 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,625 INFO: At the beginning of remove_from_cart 272 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,626 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 273.
+2023-04-19 19:33:16,626 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 133.
+2023-04-19 19:33:16,627 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 21.
+2023-04-19 19:33:16,628 INFO: At the beginning of add_to_cart 273 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,628 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 272.
+2023-04-19 19:33:16,628 INFO: Successfully placed the order 133.
+2023-04-19 19:33:16,629 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 273.
+2023-04-19 19:33:16,629 INFO: At the beginning of publish 22 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,629 INFO: At the beginning of publish 2 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,630 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 272.
+2023-04-19 19:33:16,630 INFO: At the beginning of publish 43 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,630 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,630 INFO: At the beginning of place_order 90.
+2023-04-19 19:33:16,631 INFO: At the beginning of add_to_cart 273 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,631 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 22.
+2023-04-19 19:33:16,631 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 2.
+2023-04-19 19:33:16,632 INFO: Full!
+2023-04-19 19:33:16,632 INFO: Successfully added the cart 274.
+2023-04-19 19:33:16,633 INFO: At the beginning of remove_from_cart 90 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,633 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 273.
+2023-04-19 19:33:16,634 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,634 INFO: At the beginning of add_to_cart 255 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,635 INFO: At the beginning of add_to_cart 274 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,636 INFO: At the beginning of add_to_cart 273 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,636 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 90.
+2023-04-19 19:33:16,636 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 36.
+2023-04-19 19:33:16,636 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 255.
+2023-04-19 19:33:16,637 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 90.
+2023-04-19 19:33:16,638 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 274.
+2023-04-19 19:33:16,639 INFO: At the beginning of remove_from_cart 90 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,639 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 273.
+2023-04-19 19:33:16,640 INFO: At the beginning of add_to_cart 273 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,640 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 90.
+2023-04-19 19:33:16,640 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 273.
+2023-04-19 19:33:16,641 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 90.
+2023-04-19 19:33:16,641 INFO: At the beginning of add_to_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,642 INFO: Successfully placed the order 90.
+2023-04-19 19:33:16,642 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,642 INFO: At the beginning of place_order 191.
+2023-04-19 19:33:16,643 INFO: At the beginning of add_to_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,643 INFO: At the beginning of remove_from_cart 191 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,644 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,644 INFO: At the beginning of add_to_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,644 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 191.
+2023-04-19 19:33:16,645 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,645 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 191.
+2023-04-19 19:33:16,646 INFO: At the beginning of add_to_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,646 INFO: At the beginning of remove_from_cart 191 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,647 INFO: Successfully added the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in 273.
+2023-04-19 19:33:16,647 INFO: At the beginning of remove_from_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,647 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 191.
+2023-04-19 19:33:16,648 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 273.
+2023-04-19 19:33:16,648 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 191.
+2023-04-19 19:33:16,649 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 273.
+2023-04-19 19:33:16,649 INFO: At the beginning of remove_from_cart 191 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,649 INFO: At the beginning of remove_from_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,650 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 191.
+2023-04-19 19:33:16,650 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 273.
+2023-04-19 19:33:16,650 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 191.
+2023-04-19 19:33:16,651 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 273.
+2023-04-19 19:33:16,651 INFO: At the beginning of remove_from_cart 191 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,651 INFO: At the beginning of remove_from_cart 273 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,652 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 191.
+2023-04-19 19:33:16,652 INFO: At the beginning of add_to_cart 112 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,652 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 273.
+2023-04-19 19:33:16,653 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 191.
+2023-04-19 19:33:16,653 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 112.
+2023-04-19 19:33:16,653 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 273.
+2023-04-19 19:33:16,654 INFO: At the beginning of remove_from_cart 191 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,655 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 191.
+2023-04-19 19:33:16,655 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 191.
+2023-04-19 19:33:16,656 INFO: At the beginning of add_to_cart 185 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,656 INFO: Successfully placed the order 191.
+2023-04-19 19:33:16,656 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 185.
+2023-04-19 19:33:16,657 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,657 INFO: At the beginning of place_order 219.
+2023-04-19 19:33:16,657 INFO: At the beginning of add_to_cart 239 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,658 INFO: Successfully added the cart 275.
+2023-04-19 19:33:16,658 INFO: At the beginning of remove_from_cart 219 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,658 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 239.
+2023-04-19 19:33:16,659 INFO: At the beginning of add_to_cart 275 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,659 INFO: At the beginning of publish 33 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,660 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 219.
+2023-04-19 19:33:16,660 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 275.
+2023-04-19 19:33:16,660 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 33.
+2023-04-19 19:33:16,661 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 219.
+2023-04-19 19:33:16,661 INFO: At the beginning of remove_from_cart 275 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,662 INFO: Successfully placed the order 219.
+2023-04-19 19:33:16,662 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 275.
+2023-04-19 19:33:16,663 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,663 INFO: At the beginning of place_order 61.
+2023-04-19 19:33:16,663 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 275.
+2023-04-19 19:33:16,664 INFO: At the beginning of add_to_cart 242 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,664 INFO: Successfully added the cart 276.
+2023-04-19 19:33:16,664 INFO: At the beginning of publish 40 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,664 INFO: At the beginning of add_to_cart 215 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,664 INFO: At the beginning of remove_from_cart 61 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,665 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 242.
+2023-04-19 19:33:16,665 INFO: At the beginning of publish 48 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,666 INFO: At the beginning of add_to_cart 276 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,666 INFO: At the beginning of add_to_cart 89 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,666 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 40.
+2023-04-19 19:33:16,667 INFO: At the beginning of publish 12 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,668 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 215.
+2023-04-19 19:33:16,668 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 48.
+2023-04-19 19:33:16,669 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 12.
+2023-04-19 19:33:16,670 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 61.
+2023-04-19 19:33:16,670 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 276.
+2023-04-19 19:33:16,671 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 61.
+2023-04-19 19:33:16,671 INFO: At the beginning of publish 19 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,671 INFO: At the beginning of add_to_cart 276 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,671 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,672 INFO: At the beginning of remove_from_cart 61 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,672 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 19.
+2023-04-19 19:33:16,673 INFO: At the beginning of add_to_cart 89 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,673 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 276.
+2023-04-19 19:33:16,674 INFO: At the beginning of publish 4 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,675 INFO: At the beginning of add_to_cart 276 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,675 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 61.
+2023-04-19 19:33:16,675 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,675 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 4.
+2023-04-19 19:33:16,676 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 61.
+2023-04-19 19:33:16,677 INFO: At the beginning of add_to_cart 89 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,677 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 276.
+2023-04-19 19:33:16,678 INFO: At the beginning of remove_from_cart 61 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,678 INFO: At the beginning of add_to_cart 276 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,679 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,679 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,680 INFO: At the beginning of add_to_cart 89 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,680 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 61.
+2023-04-19 19:33:16,680 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 276.
+2023-04-19 19:33:16,681 INFO: ERROR: The product Tea(name='English Breakfast', price=2, type='Black') doesn't exist in 61.
+2023-04-19 19:33:16,681 INFO: At the beginning of publish 5 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,681 INFO: At the beginning of add_to_cart 276 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,681 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 265.
+2023-04-19 19:33:16,682 INFO: Successfully placed the order 61.
+2023-04-19 19:33:16,682 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 5.
+2023-04-19 19:33:16,683 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,683 INFO: At the beginning of add_to_cart 154 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,683 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,683 INFO: At the beginning of place_order 111.
+2023-04-19 19:33:16,684 INFO: At the beginning of add_to_cart 89 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,684 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 276.
+2023-04-19 19:33:16,685 INFO: Successfully added the cart 277.
+2023-04-19 19:33:16,685 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,686 INFO: At the beginning of remove_from_cart 111 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,686 INFO: At the beginning of add_to_cart 276 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,687 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 154.
+2023-04-19 19:33:16,687 INFO: At the beginning of add_to_cart 277 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,687 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 8.
+2023-04-19 19:33:16,689 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 89.
+2023-04-19 19:33:16,689 INFO: At the beginning of publish 21 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,689 INFO: At the beginning of add_to_cart 59 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,690 INFO: At the beginning of remove_from_cart 89 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,690 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 111.
+2023-04-19 19:33:16,690 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 276.
+2023-04-19 19:33:16,690 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 21.
+2023-04-19 19:33:16,692 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 111.
+2023-04-19 19:33:16,692 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 277.
+2023-04-19 19:33:16,693 INFO: At the beginning of remove_from_cart 111 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,694 INFO: At the beginning of add_to_cart 277 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,694 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 59.
+2023-04-19 19:33:16,695 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 89.
+2023-04-19 19:33:16,695 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 111.
+2023-04-19 19:33:16,695 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 277.
+2023-04-19 19:33:16,695 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 89.
+2023-04-19 19:33:16,696 INFO: At the beginning of add_to_cart 73 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,696 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 111.
+2023-04-19 19:33:16,697 INFO: At the beginning of add_to_cart 277 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,697 INFO: At the beginning of add_to_cart 174 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,697 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 73.
+2023-04-19 19:33:16,698 INFO: At the beginning of remove_from_cart 111 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,699 INFO: At the beginning of add_to_cart 271 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,699 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 277.
+2023-04-19 19:33:16,701 INFO: At the beginning of add_to_cart 277 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,701 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 174.
+2023-04-19 19:33:16,701 INFO: At the beginning of add_to_cart 260 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,701 INFO: At the beginning of publish 27 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,702 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 111.
+2023-04-19 19:33:16,702 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 271.
+2023-04-19 19:33:16,703 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 27.
+2023-04-19 19:33:16,703 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 111.
+2023-04-19 19:33:16,704 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 277.
+2023-04-19 19:33:16,705 INFO: Successfully placed the order 111.
+2023-04-19 19:33:16,705 INFO: At the beginning of add_to_cart 277 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,705 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 260.
+2023-04-19 19:33:16,705 INFO: At the beginning of add_to_cart 138 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,706 INFO: At the beginning of place_order 10.
+2023-04-19 19:33:16,707 INFO: At the beginning of add_to_cart 260 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,707 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 277.
+2023-04-19 19:33:16,708 INFO: At the beginning of publish 36 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,708 INFO: At the beginning of remove_from_cart 10 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,709 INFO: At the beginning of add_to_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,709 INFO: At the beginning of add_to_cart 230 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,709 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 138.
+2023-04-19 19:33:16,710 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 36.
+2023-04-19 19:33:16,711 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 260.
+2023-04-19 19:33:16,712 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 10.
+2023-04-19 19:33:16,712 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 277.
+2023-04-19 19:33:16,713 INFO: At the beginning of publish 16 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,713 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 10.
+2023-04-19 19:33:16,714 INFO: At the beginning of add_to_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,714 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 230.
+2023-04-19 19:33:16,714 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 16.
+2023-04-19 19:33:16,714 INFO: At the beginning of remove_from_cart 10 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,715 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 277.
+2023-04-19 19:33:16,717 INFO: At the beginning of add_to_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,717 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 10.
+2023-04-19 19:33:16,717 INFO: At the beginning of add_to_cart 213 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,717 INFO: At the beginning of publish 10 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,718 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 277.
+2023-04-19 19:33:16,718 INFO: At the beginning of add_to_cart 220 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,718 INFO: At the beginning of add_to_cart 153 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,719 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 10.
+2023-04-19 19:33:16,720 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 10.
+2023-04-19 19:33:16,720 INFO: At the beginning of remove_from_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,721 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 213.
+2023-04-19 19:33:16,722 INFO: At the beginning of remove_from_cart 10 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,723 INFO: At the beginning of add_to_cart 40 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,723 INFO: At the beginning of add_to_cart 246 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,723 INFO: At the beginning of publish 30 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,724 INFO: At the beginning of publish 24 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,724 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 220.
+2023-04-19 19:33:16,726 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 30.
+2023-04-19 19:33:16,727 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 153.
+2023-04-19 19:33:16,727 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 24.
+2023-04-19 19:33:16,729 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 277.
+2023-04-19 19:33:16,729 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 10.
+2023-04-19 19:33:16,729 INFO: At the beginning of publish 44 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,729 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 40.
+2023-04-19 19:33:16,730 INFO: At the beginning of add_to_cart 239 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,730 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 277.
+2023-04-19 19:33:16,730 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 10.
+2023-04-19 19:33:16,731 INFO: At the beginning of publish 7 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,731 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 44.
+2023-04-19 19:33:16,731 INFO: At the beginning of add_to_cart 40 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,732 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 246.
+2023-04-19 19:33:16,732 INFO: At the beginning of publish 6 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,733 INFO: At the beginning of remove_from_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,734 INFO: At the beginning of remove_from_cart 10 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,734 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 7.
+2023-04-19 19:33:16,736 INFO: At the beginning of add_to_cart 246 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,736 INFO: At the beginning of publish 1 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,736 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 239.
+2023-04-19 19:33:16,737 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 6.
+2023-04-19 19:33:16,737 INFO: At the beginning of add_to_cart 185 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,739 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-19 19:33:16,741 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 40.
+2023-04-19 19:33:16,741 INFO: At the beginning of publish 12 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,741 INFO: At the beginning of publish 23 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,743 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,744 INFO: At the beginning of add_to_cart 40 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,744 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 277.
+2023-04-19 19:33:16,744 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 10.
+2023-04-19 19:33:16,744 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 246.
+2023-04-19 19:33:16,745 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 12.
+2023-04-19 19:33:16,745 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 23.
+2023-04-19 19:33:16,746 INFO: At the beginning of add_to_cart 83 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,746 INFO: At the beginning of publish 32 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,747 INFO: At the beginning of publish 0 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,747 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 277.
+2023-04-19 19:33:16,748 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 10.
+2023-04-19 19:33:16,749 INFO: At the beginning of add_to_cart 246 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,749 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 185.
+2023-04-19 19:33:16,750 INFO: At the beginning of add_to_cart 263 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,751 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 32.
+2023-04-19 19:33:16,752 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 0.
+2023-04-19 19:33:16,753 INFO: At the beginning of remove_from_cart 277 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,753 INFO: At the beginning of publish 21 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,753 INFO: At the beginning of remove_from_cart 10 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,754 INFO: At the beginning of publish 22 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,754 INFO: At the beginning of publish 31 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,755 INFO: At the beginning of add_to_cart 185 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,755 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 265.
+2023-04-19 19:33:16,758 INFO: At the beginning of add_to_cart 117 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,760 INFO: At the beginning of add_to_cart 218 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,759 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 21.
+2023-04-19 19:33:16,758 INFO: At the beginning of add_to_cart 255 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,760 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 22.
+2023-04-19 19:33:16,761 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 31.
+2023-04-19 19:33:16,761 INFO: At the beginning of add_to_cart 57 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,761 INFO: At the beginning of add_to_cart 217 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,762 INFO: At the beginning of publish 17 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,762 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 40.
+2023-04-19 19:33:16,763 INFO: At the beginning of add_to_cart 77 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,767 INFO: At the beginning of publish 13 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,768 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 17.
+2023-04-19 19:33:16,769 INFO: At the beginning of publish 37 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,769 INFO: At the beginning of remove_from_cart 40 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,770 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 83.
+2023-04-19 19:33:16,771 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 13.
+2023-04-19 19:33:16,772 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 37.
+2023-04-19 19:33:16,772 INFO: At the beginning of publish 18 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,773 INFO: At the beginning of add_to_cart 83 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,773 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 246.
+2023-04-19 19:33:16,774 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 18.
+2023-04-19 19:33:16,774 INFO: At the beginning of publish 27 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,774 INFO: At the beginning of publish 2 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,775 INFO: At the beginning of publish 43 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,775 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 263.
+2023-04-19 19:33:16,776 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 27.
+2023-04-19 19:33:16,777 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 2.
+2023-04-19 19:33:16,778 INFO: Full!
+2023-04-19 19:33:16,778 INFO: At the beginning of publish 28 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,779 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 277.
+2023-04-19 19:33:16,779 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 10.
+2023-04-19 19:33:16,780 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 185.
+2023-04-19 19:33:16,784 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 28.
+2023-04-19 19:33:16,784 INFO: At the beginning of add_to_cart 112 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,785 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 277.
+2023-04-19 19:33:16,786 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 10.
+2023-04-19 19:33:16,786 INFO: At the beginning of add_to_cart 185 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,787 INFO: Successfully added the product Tea(name='Jasmine', price=6, type='Green') in 117.
+2023-04-19 19:33:16,789 INFO: Successfully placed the order 10.
+2023-04-19 19:33:16,790 INFO: At the beginning of add_to_cart 117 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,790 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 218.
+2023-04-19 19:33:16,790 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,790 INFO: At the beginning of add_to_cart 27 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,792 INFO: At the beginning of add_to_cart 248 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,792 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 255.
+2023-04-19 19:33:16,791 INFO: At the beginning of place_order 64.
+2023-04-19 19:33:16,792 INFO: Successfully added the cart 278.
+2023-04-19 19:33:16,794 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 57.
+2023-04-19 19:33:16,794 INFO: At the beginning of remove_from_cart 64 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,795 INFO: At the beginning of add_to_cart 278 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,796 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 217.
+2023-04-19 19:33:16,798 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 77.
+2023-04-19 19:33:16,800 INFO: At the beginning of add_to_cart 37 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,800 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 40.
+2023-04-19 19:33:16,800 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 83.
+2023-04-19 19:33:16,800 INFO: At the beginning of publish 48 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,801 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 40.
+2023-04-19 19:33:16,802 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 112.
+2023-04-19 19:33:16,802 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 48.
+2023-04-19 19:33:16,803 INFO: At the beginning of remove_from_cart 40 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,804 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 185.
+2023-04-19 19:33:16,804 INFO: At the beginning of publish 3 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,805 INFO: At the beginning of add_to_cart 185 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,805 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 117.
+2023-04-19 19:33:16,806 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 3.
+2023-04-19 19:33:16,807 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 27.
+2023-04-19 19:33:16,808 INFO: At the beginning of add_to_cart 242 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,809 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 248.
+2023-04-19 19:33:16,810 INFO: At the beginning of add_to_cart 215 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,810 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 64.
+2023-04-19 19:33:16,810 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 278.
+2023-04-19 19:33:16,811 INFO: At the beginning of add_to_cart 239 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,812 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 64.
+2023-04-19 19:33:16,812 INFO: At the beginning of publish 41 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,812 INFO: At the beginning of add_to_cart 278 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,813 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 37.
+2023-04-19 19:33:16,813 INFO: At the beginning of add_to_cart 166 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,815 INFO: At the beginning of remove_from_cart 64 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,816 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 41.
+2023-04-19 19:33:16,818 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 40.
+2023-04-19 19:33:16,818 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 185.
+2023-04-19 19:33:16,818 INFO: At the beginning of publish 29 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-19 19:33:16,820 INFO: At the beginning of publish 12 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,820 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 40.
+2023-04-19 19:33:16,820 INFO: At the beginning of add_to_cart 165 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,821 INFO: At the beginning of add_to_cart 185 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-19 19:33:16,821 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 242.
+2023-04-19 19:33:16,821 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 29.
+2023-04-19 19:33:16,822 INFO: At the beginning of add_to_cart 265 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,822 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 12.
+2023-04-19 19:33:16,824 INFO: At the beginning of add_to_cart 271 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,825 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 215.
+2023-04-19 19:33:16,828 INFO: At the beginning of publish 45 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,828 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 239.
+2023-04-19 19:33:16,829 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 45.
+2023-04-19 19:33:16,829 INFO: At the beginning of publish 40 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,830 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 278.
+2023-04-19 19:33:16,831 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 40.
+2023-04-19 19:33:16,832 INFO: At the beginning of add_to_cart 278 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,832 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 166.
+2023-04-19 19:33:16,833 INFO: At the beginning of publish 10 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,834 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 64.
+2023-04-19 19:33:16,835 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 165.
+2023-04-19 19:33:16,835 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 10.
+2023-04-19 19:33:16,836 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 64.
+2023-04-19 19:33:16,837 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 185.
+2023-04-19 19:33:16,837 INFO: At the beginning of publish 47 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,838 INFO: Successfully placed the order 64.
+2023-04-19 19:33:16,838 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 265.
+2023-04-19 19:33:16,839 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 47.
+2023-04-19 19:33:16,839 INFO: At the beginning of publish 49 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,839 INFO: At the beginning of new_cart.
+2023-04-19 19:33:16,840 INFO: At the beginning of place_order 114.
+2023-04-19 19:33:16,840 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 271.
+2023-04-19 19:33:16,841 INFO: Successfully added the cart 279.
+2023-04-19 19:33:16,841 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 49.
+2023-04-19 19:33:16,842 INFO: At the beginning of publish 20 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-19 19:33:16,842 INFO: At the beginning of remove_from_cart 114 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,843 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 278.
+2023-04-19 19:33:16,843 INFO: At the beginning of add_to_cart 279 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,844 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 20.
+2023-04-19 19:33:16,845 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 114.
+2023-04-19 19:33:16,846 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 279.
+2023-04-19 19:33:16,846 INFO: At the beginning of add_to_cart 262 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,847 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 114.
+2023-04-19 19:33:16,848 INFO: At the beginning of add_to_cart 279 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,848 INFO: At the beginning of publish 25 Tea(name='White Peach', price=5, type='White').
+2023-04-19 19:33:16,849 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 262.
+2023-04-19 19:33:16,849 INFO: At the beginning of remove_from_cart 114 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,850 INFO: At the beginning of publish 27 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,850 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 25.
+2023-04-19 19:33:16,851 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 279.
+2023-04-19 19:33:16,851 INFO: At the beginning of publish 34 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,852 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 27.
+2023-04-19 19:33:16,853 INFO: At the beginning of add_to_cart 91 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,853 INFO: At the beginning of publish 46 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,853 INFO: At the beginning of add_to_cart 279 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,853 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 114.
+2023-04-19 19:33:16,854 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 34.
+2023-04-19 19:33:16,854 INFO: At the beginning of publish 35 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,855 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 91.
+2023-04-19 19:33:16,855 INFO: At the beginning of add_to_cart 59 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,856 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 46.
+2023-04-19 19:33:16,857 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 114.
+2023-04-19 19:33:16,858 INFO: At the beginning of publish 4 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-19 19:33:16,858 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 35.
+2023-04-19 19:33:16,859 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 279.
+2023-04-19 19:33:16,860 INFO: At the beginning of remove_from_cart 114 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-19 19:33:16,860 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 4.
+2023-04-19 19:33:16,861 INFO: At the beginning of publish 2 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,862 INFO: At the beginning of add_to_cart 279 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-19 19:33:16,862 INFO: ERROR: The product Tea(name='Jasmine', price=6, type='Green') doesn't exist in 59.
+2023-04-19 19:33:16,862 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-19 19:33:16,864 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 2.
+2023-04-19 19:33:16,865 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 114.
+2023-04-19 19:33:16,865 INFO: Successfully added the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in 279.
+2023-04-19 19:33:16,866 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
+2023-04-19 19:33:16,866 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 114.
+2023-04-19 19:33:16,867 INFO: At the beginning of add_to_cart 279 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,868 INFO: At the beginning of remove_from_cart 114 Tea(name='Jasmine', price=6, type='Green').
+2023-04-19 19:33:16,868 INFO: At the beginning of publish 42 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
