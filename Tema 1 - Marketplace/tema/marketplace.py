@@ -334,3 +334,4 @@ class TestMarketplace(unittest.TestCase):
 
         self.assertNotEqual(self.marketplace.place_order(cart_id), list_order,
                             "The lists are not the same!")
+

@@ -63,3 +63,4 @@ class Producer(Thread):
             if self.marketplace.nr_producers == 0:
                 # daca nu mai sunt producatori, se opreste productia
                 self.my_loop = False
+

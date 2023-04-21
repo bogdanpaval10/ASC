@@ -79,3 +79,4 @@ class Consumer(Thread):
 
             with self.marketplace.sem_order:    # se publica comanda
                 self.marketplace.place_order(cart_id)
+

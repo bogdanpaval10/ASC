@@ -1,261 +1,504 @@
-2023-04-19 19:33:27,130 INFO: At the beginning of remove_from_cart 568 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,133 INFO: At the beginning of publish 2 Tea(name='English Breakfast', price=2, type='Black').
-2023-04-19 19:33:27,147 INFO: At the beginning of publish 1 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,155 INFO: At the beginning of publish 27 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,157 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,158 INFO: At the beginning of publish 32 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,160 INFO: At the beginning of publish 37 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,163 INFO: At the beginning of publish 11 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,164 INFO: At the beginning of publish 17 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,181 INFO: At the beginning of publish 34 Tea(name='English Breakfast', price=2, type='Black').
-2023-04-19 19:33:27,181 INFO: At the beginning of publish 16 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,185 INFO: At the beginning of publish 33 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,185 INFO: At the beginning of publish 36 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,187 INFO: At the beginning of publish 45 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,199 INFO: At the beginning of publish 18 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,199 INFO: At the beginning of publish 47 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,200 INFO: At the beginning of publish 44 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,207 INFO: At the beginning of publish 49 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,209 INFO: At the beginning of publish 25 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,213 INFO: At the beginning of publish 23 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,216 INFO: At the beginning of publish 19 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,223 INFO: At the beginning of publish 35 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,232 INFO: At the beginning of publish 4 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,239 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 568.
-2023-04-19 19:33:27,240 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 2.
-2023-04-19 19:33:27,240 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 1.
-2023-04-19 19:33:27,241 INFO: Full!
-2023-04-19 19:33:27,241 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
-2023-04-19 19:33:27,244 INFO: Full!
-2023-04-19 19:33:27,244 INFO: Full!
-2023-04-19 19:33:27,245 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 11.
-2023-04-19 19:33:27,245 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 17.
-2023-04-19 19:33:27,246 INFO: At the beginning of publish 9 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,246 INFO: Full!
-2023-04-19 19:33:27,246 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 16.
-2023-04-19 19:33:27,247 INFO: Full!
-2023-04-19 19:33:27,247 INFO: Full!
-2023-04-19 19:33:27,248 INFO: Full!
-2023-04-19 19:33:27,248 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 18.
-2023-04-19 19:33:27,249 INFO: Full!
-2023-04-19 19:33:27,249 INFO: Full!
-2023-04-19 19:33:27,250 INFO: Full!
-2023-04-19 19:33:27,250 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 25.
-2023-04-19 19:33:27,251 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 23.
-2023-04-19 19:33:27,251 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 19.
-2023-04-19 19:33:27,252 INFO: Full!
-2023-04-19 19:33:27,252 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 4.
-2023-04-19 19:33:27,253 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 568.
-2023-04-19 19:33:27,256 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 9.
-2023-04-19 19:33:27,261 INFO: At the beginning of remove_from_cart 568 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,262 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 568.
-2023-04-19 19:33:27,263 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 568.
-2023-04-19 19:33:27,263 INFO: At the beginning of publish 26 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,263 INFO: At the beginning of publish 43 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,264 INFO: At the beginning of remove_from_cart 568 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,264 INFO: Full!
-2023-04-19 19:33:27,265 INFO: Full!
-2023-04-19 19:33:27,265 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 568.
-2023-04-19 19:33:27,266 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 568.
-2023-04-19 19:33:27,267 INFO: At the beginning of remove_from_cart 568 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,267 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 568.
-2023-04-19 19:33:27,268 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 568.
-2023-04-19 19:33:27,269 INFO: Successfully placed the order 568.
-2023-04-19 19:33:27,269 INFO: At the beginning of new_cart.
-2023-04-19 19:33:27,269 INFO: At the beginning of place_order 569.
-2023-04-19 19:33:27,270 INFO: Successfully added the cart 575.
-2023-04-19 19:33:27,270 INFO: At the beginning of remove_from_cart 569 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,271 INFO: At the beginning of add_to_cart 575 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,271 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 569.
-2023-04-19 19:33:27,272 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 575.
-2023-04-19 19:33:27,272 INFO: At the beginning of publish 31 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,272 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 569.
-2023-04-19 19:33:27,273 INFO: At the beginning of add_to_cart 575 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,273 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 31.
-2023-04-19 19:33:27,273 INFO: At the beginning of publish 40 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,274 INFO: At the beginning of remove_from_cart 569 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,274 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 575.
-2023-04-19 19:33:27,275 INFO: Full!
-2023-04-19 19:33:27,276 INFO: At the beginning of add_to_cart 575 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,276 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 569.
-2023-04-19 19:33:27,277 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 575.
-2023-04-19 19:33:27,277 INFO: ERROR: The product Tea(name='White Peach', price=5, type='White') doesn't exist in 569.
-2023-04-19 19:33:27,278 INFO: At the beginning of add_to_cart 575 Tea(name='English Breakfast', price=2, type='Black').
-2023-04-19 19:33:27,278 INFO: At the beginning of remove_from_cart 569 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,279 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 575.
-2023-04-19 19:33:27,279 INFO: At the beginning of add_to_cart 575 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,279 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 569.
-2023-04-19 19:33:27,280 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 575.
-2023-04-19 19:33:27,281 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 569.
-2023-04-19 19:33:27,281 INFO: At the beginning of add_to_cart 575 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,282 INFO: At the beginning of remove_from_cart 569 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,282 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 575.
-2023-04-19 19:33:27,283 INFO: At the beginning of add_to_cart 575 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,283 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 569.
-2023-04-19 19:33:27,284 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 575.
-2023-04-19 19:33:27,284 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 569.
-2023-04-19 19:33:27,285 INFO: At the beginning of remove_from_cart 569 Tea(name='English Breakfast', price=2, type='Black').
-2023-04-19 19:33:27,285 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 569.
-2023-04-19 19:33:27,286 INFO: ERROR: The product Tea(name='English Breakfast', price=2, type='Black') doesn't exist in 569.
-2023-04-19 19:33:27,286 INFO: Successfully placed the order 569.
-2023-04-19 19:33:27,287 INFO: At the beginning of place_order 570.
-2023-04-19 19:33:27,288 INFO: At the beginning of remove_from_cart 570 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,288 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 570.
-2023-04-19 19:33:27,289 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 570.
-2023-04-19 19:33:27,289 INFO: At the beginning of remove_from_cart 570 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,290 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 570.
-2023-04-19 19:33:27,291 INFO: ERROR: The product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') doesn't exist in 570.
-2023-04-19 19:33:27,291 INFO: At the beginning of remove_from_cart 570 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,292 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 570.
-2023-04-19 19:33:27,292 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 570.
-2023-04-19 19:33:27,293 INFO: At the beginning of remove_from_cart 570 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,293 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 570.
-2023-04-19 19:33:27,294 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 570.
-2023-04-19 19:33:27,294 INFO: At the beginning of remove_from_cart 570 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,295 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 570.
-2023-04-19 19:33:27,296 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 570.
-2023-04-19 19:33:27,296 INFO: Successfully placed the order 570.
-2023-04-19 19:33:27,297 INFO: At the beginning of new_cart.
-2023-04-19 19:33:27,297 INFO: At the beginning of place_order 571.
-2023-04-19 19:33:27,298 INFO: Successfully added the cart 576.
-2023-04-19 19:33:27,298 INFO: At the beginning of remove_from_cart 571 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,299 INFO: At the beginning of add_to_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,299 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 571.
-2023-04-19 19:33:27,300 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 576.
-2023-04-19 19:33:27,300 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 571.
-2023-04-19 19:33:27,301 INFO: At the beginning of add_to_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,301 INFO: At the beginning of remove_from_cart 571 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,302 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 576.
-2023-04-19 19:33:27,303 INFO: At the beginning of add_to_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,303 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 571.
-2023-04-19 19:33:27,303 INFO: At the beginning of publish 30 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,303 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 576.
-2023-04-19 19:33:27,304 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 571.
-2023-04-19 19:33:27,304 INFO: Full!
-2023-04-19 19:33:27,305 INFO: At the beginning of add_to_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,305 INFO: Successfully placed the order 571.
-2023-04-19 19:33:27,306 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 576.
-2023-04-19 19:33:27,307 INFO: At the beginning of place_order 572.
-2023-04-19 19:33:27,307 INFO: At the beginning of remove_from_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,308 INFO: Successfully placed the order 572.
-2023-04-19 19:33:27,308 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 576.
-2023-04-19 19:33:27,309 INFO: At the beginning of new_cart.
-2023-04-19 19:33:27,309 INFO: At the beginning of place_order 573.
-2023-04-19 19:33:27,309 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 576.
-2023-04-19 19:33:27,310 INFO: Successfully added the cart 577.
-2023-04-19 19:33:27,310 INFO: At the beginning of remove_from_cart 573 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,311 INFO: At the beginning of remove_from_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,311 INFO: At the beginning of add_to_cart 577 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,312 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 573.
-2023-04-19 19:33:27,312 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 576.
-2023-04-19 19:33:27,313 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,313 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 573.
-2023-04-19 19:33:27,314 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 576.
-2023-04-19 19:33:27,314 INFO: At the beginning of add_to_cart 577 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,314 INFO: At the beginning of remove_from_cart 573 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,315 INFO: At the beginning of publish 42 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,315 INFO: At the beginning of remove_from_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,315 INFO: Successfully added the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,316 INFO: Full!
-2023-04-19 19:33:27,317 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,317 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 573.
-2023-04-19 19:33:27,317 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 576.
-2023-04-19 19:33:27,319 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,319 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 573.
-2023-04-19 19:33:27,320 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 576.
-2023-04-19 19:33:27,320 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,320 INFO: Successfully placed the order 573.
-2023-04-19 19:33:27,322 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,322 INFO: At the beginning of place_order 574.
-2023-04-19 19:33:27,323 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,323 INFO: At the beginning of remove_from_cart 574 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,324 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,325 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,325 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 574.
-2023-04-19 19:33:27,326 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,326 INFO: At the beginning of publish 48 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,326 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,327 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 574.
-2023-04-19 19:33:27,327 INFO: At the beginning of add_to_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,327 INFO: Full!
-2023-04-19 19:33:27,328 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 8.
-2023-04-19 19:33:27,328 INFO: At the beginning of publish 41 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,329 INFO: At the beginning of publish 47 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,328 INFO: At the beginning of remove_from_cart 574 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,329 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,330 INFO: Full!
-2023-04-19 19:33:27,331 INFO: At the beginning of publish 13 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,331 INFO: Full!
-2023-04-19 19:33:27,332 INFO: At the beginning of add_to_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,332 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 574.
-2023-04-19 19:33:27,333 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 13.
-2023-04-19 19:33:27,333 INFO: At the beginning of publish 2 Tea(name='Jasmine', price=6, type='Green').
-2023-04-19 19:33:27,334 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,334 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 574.
-2023-04-19 19:33:27,335 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 2.
-2023-04-19 19:33:27,336 INFO: At the beginning of add_to_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,336 INFO: At the beginning of remove_from_cart 574 Tea(name='Pai Mu Tan', price=9, type='White').
-2023-04-19 19:33:27,337 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,338 INFO: At the beginning of publish 36 Tea(name='White Peach', price=5, type='White').
-2023-04-19 19:33:27,338 INFO: At the beginning of add_to_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,338 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 574.
-2023-04-19 19:33:27,338 INFO: At the beginning of publish 45 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,339 INFO: Full!
-2023-04-19 19:33:27,339 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 577.
-2023-04-19 19:33:27,340 INFO: ERROR: The product Tea(name='Pai Mu Tan', price=9, type='White') doesn't exist in 574.
-2023-04-19 19:33:27,340 INFO: Full!
-2023-04-19 19:33:27,341 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,342 INFO: At the beginning of remove_from_cart 574 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,343 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,343 INFO: At the beginning of publish 20 Tea(name='Jasmine', price=6, type='Green').
-2023-04-19 19:33:27,343 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 574.
-2023-04-19 19:33:27,344 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,344 INFO: At the beginning of publish 1 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,344 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 20.
-2023-04-19 19:33:27,344 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,345 INFO: ERROR: The product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') doesn't exist in 574.
-2023-04-19 19:33:27,345 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 1.
-2023-04-19 19:33:27,346 INFO: At the beginning of publish 21 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
-2023-04-19 19:33:27,346 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
-2023-04-19 19:33:27,347 INFO: Successfully placed the order 574.
-2023-04-19 19:33:27,347 INFO: Full!
-2023-04-19 19:33:27,348 INFO: At the beginning of place_order 575.
-2023-04-19 19:33:27,349 INFO: At the beginning of remove_from_cart 575 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,350 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 575.
-2023-04-19 19:33:27,351 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 575.
-2023-04-19 19:33:27,351 INFO: At the beginning of remove_from_cart 575 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,352 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 575.
-2023-04-19 19:33:27,352 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 575.
-2023-04-19 19:33:27,353 INFO: At the beginning of remove_from_cart 575 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,353 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 575.
-2023-04-19 19:33:27,354 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 575.
-2023-04-19 19:33:27,354 INFO: At the beginning of remove_from_cart 575 Tea(name='Vietnam Oolong', price=10, type='Oolong').
-2023-04-19 19:33:27,355 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 575.
-2023-04-19 19:33:27,356 INFO: ERROR: The product Tea(name='Vietnam Oolong', price=10, type='Oolong') doesn't exist in 575.
-2023-04-19 19:33:27,356 INFO: Successfully placed the order 575.
-2023-04-19 19:33:27,357 INFO: At the beginning of place_order 576.
-2023-04-19 19:33:27,357 INFO: At the beginning of publish 29 Tea(name='English Breakfast', price=2, type='Black').
-2023-04-19 19:33:27,358 INFO: At the beginning of remove_from_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,358 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 29.
-2023-04-19 19:33:27,359 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 576.
-2023-04-19 19:33:27,359 INFO: At the beginning of publish 44 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,359 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 576.
-2023-04-19 19:33:27,360 INFO: Full!
-2023-04-19 19:33:27,360 INFO: Successfully placed the order 576.
-2023-04-19 19:33:27,361 INFO: At the beginning of place_order 577.
-2023-04-19 19:33:27,362 INFO: At the beginning of remove_from_cart 577 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
-2023-04-19 19:33:27,362 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,363 INFO: ERROR: The product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,364 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,364 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,365 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,366 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
-2023-04-19 19:33:27,366 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,367 INFO: ERROR: The product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,367 INFO: At the beginning of remove_from_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,368 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,369 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,369 INFO: At the beginning of remove_from_cart 577 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
-2023-04-19 19:33:27,370 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 577.
-2023-04-19 19:33:27,370 INFO: ERROR: The product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') doesn't exist in 577.
-2023-04-19 19:33:27,371 INFO: Successfully placed the order 577.
+2023-04-21 12:29:15,847 INFO: At the beginning of publish 45 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,848 INFO: At the beginning of remove_from_cart 550 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:15,849 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,849 INFO: At the beginning of publish 47 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:15,850 INFO: At the beginning of publish 24 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:15,851 INFO: At the beginning of publish 42 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,856 INFO: At the beginning of publish 14 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,857 INFO: At the beginning of publish 37 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,858 INFO: At the beginning of publish 36 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:15,861 INFO: At the beginning of publish 32 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,872 INFO: At the beginning of publish 4 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:15,875 INFO: At the beginning of publish 12 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,878 INFO: At the beginning of publish 46 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,879 INFO: At the beginning of publish 28 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,880 INFO: At the beginning of publish 20 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:15,880 INFO: At the beginning of publish 17 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,882 INFO: At the beginning of publish 31 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:15,889 INFO: At the beginning of publish 30 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,899 INFO: At the beginning of publish 19 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,907 INFO: At the beginning of publish 18 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:15,909 INFO: At the beginning of publish 40 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:15,910 INFO: At the beginning of publish 35 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:15,911 INFO: At the beginning of publish 7 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,913 INFO: At the beginning of publish 44 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,915 INFO: At the beginning of publish 22 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:15,920 INFO: At the beginning of publish 38 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,933 INFO: At the beginning of publish 43 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:15,933 INFO: At the beginning of publish 2 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,935 INFO: At the beginning of publish 9 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,947 INFO: At the beginning of publish 34 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:15,954 INFO: At the beginning of publish 48 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:15,956 INFO: At the beginning of publish 11 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:15,959 INFO: At the beginning of publish 27 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:15,960 INFO: At the beginning of publish 41 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:15,961 INFO: At the beginning of publish 33 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:15,962 INFO: At the beginning of publish 6 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:15,975 INFO: At the beginning of publish 15 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:15,984 INFO: At the beginning of publish 21 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:15,990 INFO: At the beginning of publish 49 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:15,992 INFO: At the beginning of publish 1 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,008 INFO: At the beginning of publish 13 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,011 INFO: At the beginning of publish 16 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,013 INFO: At the beginning of publish 26 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,013 INFO: At the beginning of publish 10 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,029 INFO: Full!
+2023-04-21 12:29:16,030 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 550.
+2023-04-21 12:29:16,031 INFO: Full!
+2023-04-21 12:29:16,031 INFO: Full!
+2023-04-21 12:29:16,032 INFO: Full!
+2023-04-21 12:29:16,035 INFO: Full!
+2023-04-21 12:29:16,035 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 14.
+2023-04-21 12:29:16,036 INFO: Full!
+2023-04-21 12:29:16,036 INFO: At the beginning of publish 39 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,036 INFO: Full!
+2023-04-21 12:29:16,037 INFO: Full!
+2023-04-21 12:29:16,038 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 4.
+2023-04-21 12:29:16,038 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 12.
+2023-04-21 12:29:16,039 INFO: Full!
+2023-04-21 12:29:16,040 INFO: Full!
+2023-04-21 12:29:16,040 INFO: Full!
+2023-04-21 12:29:16,041 INFO: Full!
+2023-04-21 12:29:16,041 INFO: Full!
+2023-04-21 12:29:16,042 INFO: Full!
+2023-04-21 12:29:16,043 INFO: Full!
+2023-04-21 12:29:16,043 INFO: Full!
+2023-04-21 12:29:16,044 INFO: Full!
+2023-04-21 12:29:16,044 INFO: Full!
+2023-04-21 12:29:16,045 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 7.
+2023-04-21 12:29:16,046 INFO: Full!
+2023-04-21 12:29:16,046 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 22.
+2023-04-21 12:29:16,047 INFO: Full!
+2023-04-21 12:29:16,047 INFO: Full!
+2023-04-21 12:29:16,048 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 2.
+2023-04-21 12:29:16,049 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 9.
+2023-04-21 12:29:16,049 INFO: Full!
+2023-04-21 12:29:16,050 INFO: Full!
+2023-04-21 12:29:16,051 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 11.
+2023-04-21 12:29:16,052 INFO: Full!
+2023-04-21 12:29:16,053 INFO: Full!
+2023-04-21 12:29:16,054 INFO: Full!
+2023-04-21 12:29:16,054 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 6.
+2023-04-21 12:29:16,055 INFO: Successfully published the product Tea(name='Jasmine', price=6, type='Green'), from 15.
+2023-04-21 12:29:16,055 INFO: At the beginning of publish 3 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,056 INFO: Full!
+2023-04-21 12:29:16,056 INFO: Full!
+2023-04-21 12:29:16,057 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-21 12:29:16,057 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 13.
+2023-04-21 12:29:16,058 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 16.
+2023-04-21 12:29:16,058 INFO: Full!
+2023-04-21 12:29:16,059 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 10.
+2023-04-21 12:29:16,060 INFO: At the beginning of remove_from_cart 550 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,063 INFO: At the beginning of publish 25 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,064 INFO: Full!
+2023-04-21 12:29:16,078 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 3.
+2023-04-21 12:29:16,081 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 550.
+2023-04-21 12:29:16,082 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 25.
+2023-04-21 12:29:16,083 INFO: At the beginning of remove_from_cart 550 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,085 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 550.
+2023-04-21 12:29:16,086 INFO: At the beginning of remove_from_cart 550 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,087 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 550.
+2023-04-21 12:29:16,087 INFO: Successfully placed the order 550.
+2023-04-21 12:29:16,088 INFO: At the beginning of place_order 552.
+2023-04-21 12:29:16,089 INFO: At the beginning of remove_from_cart 552 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,090 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 552.
+2023-04-21 12:29:16,091 INFO: At the beginning of remove_from_cart 552 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,092 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 552.
+2023-04-21 12:29:16,093 INFO: At the beginning of remove_from_cart 552 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,094 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 552.
+2023-04-21 12:29:16,095 INFO: At the beginning of remove_from_cart 552 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,095 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 552.
+2023-04-21 12:29:16,096 INFO: Successfully placed the order 552.
+2023-04-21 12:29:16,097 INFO: At the beginning of place_order 554.
+2023-04-21 12:29:16,098 INFO: At the beginning of remove_from_cart 554 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,099 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 554.
+2023-04-21 12:29:16,100 INFO: Successfully placed the order 554.
+2023-04-21 12:29:16,101 INFO: At the beginning of place_order 553.
+2023-04-21 12:29:16,102 INFO: Successfully placed the order 553.
+2023-04-21 12:29:16,103 INFO: At the beginning of place_order 555.
+2023-04-21 12:29:16,104 INFO: At the beginning of remove_from_cart 555 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,105 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 555.
+2023-04-21 12:29:16,106 INFO: At the beginning of remove_from_cart 555 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,106 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 555.
+2023-04-21 12:29:16,107 INFO: Successfully placed the order 555.
+2023-04-21 12:29:16,108 INFO: At the beginning of place_order 556.
+2023-04-21 12:29:16,109 INFO: At the beginning of remove_from_cart 556 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,109 INFO: At the beginning of publish 29 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,109 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 556.
+2023-04-21 12:29:16,110 INFO: Full!
+2023-04-21 12:29:16,111 INFO: At the beginning of remove_from_cart 556 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,111 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 556.
+2023-04-21 12:29:16,112 INFO: At the beginning of remove_from_cart 556 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,113 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 556.
+2023-04-21 12:29:16,114 INFO: At the beginning of remove_from_cart 556 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,115 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 556.
+2023-04-21 12:29:16,116 INFO: At the beginning of remove_from_cart 556 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,117 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 556.
+2023-04-21 12:29:16,119 INFO: Successfully placed the order 556.
+2023-04-21 12:29:16,120 INFO: At the beginning of place_order 557.
+2023-04-21 12:29:16,121 INFO: At the beginning of remove_from_cart 557 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,122 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 557.
+2023-04-21 12:29:16,123 INFO: At the beginning of remove_from_cart 557 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,124 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 557.
+2023-04-21 12:29:16,125 INFO: At the beginning of remove_from_cart 557 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,126 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 557.
+2023-04-21 12:29:16,127 INFO: At the beginning of remove_from_cart 557 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,128 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 557.
+2023-04-21 12:29:16,129 INFO: At the beginning of remove_from_cart 557 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,130 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 557.
+2023-04-21 12:29:16,131 INFO: Successfully placed the order 557.
+2023-04-21 12:29:16,131 INFO: At the beginning of publish 47 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,132 INFO: At the beginning of place_order 558.
+2023-04-21 12:29:16,133 INFO: Full!
+2023-04-21 12:29:16,133 INFO: At the beginning of remove_from_cart 558 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,135 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 558.
+2023-04-21 12:29:16,135 INFO: At the beginning of remove_from_cart 558 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,136 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 558.
+2023-04-21 12:29:16,137 INFO: At the beginning of remove_from_cart 558 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,138 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 558.
+2023-04-21 12:29:16,139 INFO: At the beginning of remove_from_cart 558 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,139 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 558.
+2023-04-21 12:29:16,140 INFO: At the beginning of publish 45 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,140 INFO: Successfully placed the order 558.
+2023-04-21 12:29:16,141 INFO: Full!
+2023-04-21 12:29:16,141 INFO: At the beginning of place_order 559.
+2023-04-21 12:29:16,143 INFO: Successfully placed the order 559.
+2023-04-21 12:29:16,143 INFO: At the beginning of publish 14 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,144 INFO: At the beginning of place_order 560.
+2023-04-21 12:29:16,145 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 14.
+2023-04-21 12:29:16,145 INFO: At the beginning of publish 36 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,145 INFO: At the beginning of remove_from_cart 560 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,146 INFO: Full!
+2023-04-21 12:29:16,147 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 560.
+2023-04-21 12:29:16,148 INFO: At the beginning of remove_from_cart 560 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,149 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 560.
+2023-04-21 12:29:16,150 INFO: At the beginning of remove_from_cart 560 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,151 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 560.
+2023-04-21 12:29:16,151 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,152 INFO: At the beginning of remove_from_cart 560 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,153 INFO: Full!
+2023-04-21 12:29:16,153 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 560.
+2023-04-21 12:29:16,154 INFO: Successfully placed the order 560.
+2023-04-21 12:29:16,155 INFO: At the beginning of place_order 561.
+2023-04-21 12:29:16,156 INFO: At the beginning of remove_from_cart 561 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,157 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 561.
+2023-04-21 12:29:16,158 INFO: At the beginning of remove_from_cart 561 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,159 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 561.
+2023-04-21 12:29:16,160 INFO: At the beginning of remove_from_cart 561 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,161 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 561.
+2023-04-21 12:29:16,162 INFO: At the beginning of remove_from_cart 561 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,163 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 561.
+2023-04-21 12:29:16,164 INFO: Successfully placed the order 561.
+2023-04-21 12:29:16,166 INFO: At the beginning of place_order 562.
+2023-04-21 12:29:16,166 INFO: At the beginning of remove_from_cart 562 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,167 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 562.
+2023-04-21 12:29:16,168 INFO: At the beginning of publish 17 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,168 INFO: At the beginning of remove_from_cart 562 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,169 INFO: At the beginning of publish 1 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,169 INFO: Full!
+2023-04-21 12:29:16,170 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 562.
+2023-04-21 12:29:16,170 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-21 12:29:16,171 INFO: At the beginning of publish 44 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,172 INFO: At the beginning of remove_from_cart 562 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,173 INFO: Full!
+2023-04-21 12:29:16,174 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 562.
+2023-04-21 12:29:16,175 INFO: At the beginning of remove_from_cart 562 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,176 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 562.
+2023-04-21 12:29:16,176 INFO: Successfully placed the order 562.
+2023-04-21 12:29:16,177 INFO: At the beginning of publish 23 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,177 INFO: At the beginning of new_cart.
+2023-04-21 12:29:16,178 INFO: At the beginning of place_order 563.
+2023-04-21 12:29:16,178 INFO: Full!
+2023-04-21 12:29:16,179 INFO: Successfully added the cart 574.
+2023-04-21 12:29:16,179 INFO: At the beginning of remove_from_cart 563 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,180 INFO: At the beginning of add_to_cart 574 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,181 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 563.
+2023-04-21 12:29:16,182 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 574.
+2023-04-21 12:29:16,183 INFO: At the beginning of remove_from_cart 563 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,183 INFO: At the beginning of add_to_cart 574 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,184 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 563.
+2023-04-21 12:29:16,185 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 574.
+2023-04-21 12:29:16,185 INFO: At the beginning of remove_from_cart 563 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,186 INFO: At the beginning of add_to_cart 574 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,187 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 563.
+2023-04-21 12:29:16,187 INFO: Successfully added the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in 574.
+2023-04-21 12:29:16,188 INFO: Successfully placed the order 563.
+2023-04-21 12:29:16,189 INFO: At the beginning of add_to_cart 574 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,189 INFO: At the beginning of place_order 564.
+2023-04-21 12:29:16,190 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 574.
+2023-04-21 12:29:16,191 INFO: At the beginning of remove_from_cart 564 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,191 INFO: At the beginning of add_to_cart 574 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,192 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 564.
+2023-04-21 12:29:16,192 INFO: At the beginning of publish 22 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,192 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 574.
+2023-04-21 12:29:16,193 INFO: At the beginning of remove_from_cart 564 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,194 INFO: Successfully published the product Tea(name='English Breakfast', price=2, type='Black'), from 22.
+2023-04-21 12:29:16,194 INFO: At the beginning of add_to_cart 574 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,195 INFO: At the beginning of publish 34 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,195 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 564.
+2023-04-21 12:29:16,197 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 574.
+2023-04-21 12:29:16,197 INFO: At the beginning of publish 33 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,197 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,198 INFO: Full!
+2023-04-21 12:29:16,198 INFO: At the beginning of remove_from_cart 564 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,199 INFO: At the beginning of add_to_cart 574 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,199 INFO: Full!
+2023-04-21 12:29:16,200 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
+2023-04-21 12:29:16,201 INFO: At the beginning of publish 35 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,201 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 564.
+2023-04-21 12:29:16,202 INFO: Successfully added the product Tea(name='Vietnam Oolong', price=10, type='Oolong') in 574.
+2023-04-21 12:29:16,202 INFO: At the beginning of publish 5 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,204 INFO: Full!
+2023-04-21 12:29:16,204 INFO: At the beginning of publish 47 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,205 INFO: At the beginning of remove_from_cart 564 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,206 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 5.
+2023-04-21 12:29:16,207 INFO: Full!
+2023-04-21 12:29:16,207 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 564.
+2023-04-21 12:29:16,208 INFO: At the beginning of publish 20 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,209 INFO: At the beginning of remove_from_cart 564 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,209 INFO: Full!
+2023-04-21 12:29:16,210 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 564.
+2023-04-21 12:29:16,211 INFO: At the beginning of remove_from_cart 564 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,212 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 564.
+2023-04-21 12:29:16,213 INFO: Successfully placed the order 564.
+2023-04-21 12:29:16,213 INFO: At the beginning of publish 43 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,214 INFO: At the beginning of publish 37 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,214 INFO: At the beginning of publish 9 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,214 INFO: At the beginning of place_order 565.
+2023-04-21 12:29:16,215 INFO: Full!
+2023-04-21 12:29:16,215 INFO: Full!
+2023-04-21 12:29:16,215 INFO: At the beginning of publish 32 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,216 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 9.
+2023-04-21 12:29:16,216 INFO: At the beginning of remove_from_cart 565 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,218 INFO: Full!
+2023-04-21 12:29:16,219 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 565.
+2023-04-21 12:29:16,220 INFO: Successfully placed the order 565.
+2023-04-21 12:29:16,221 INFO: At the beginning of new_cart.
+2023-04-21 12:29:16,221 INFO: At the beginning of place_order 566.
+2023-04-21 12:29:16,222 INFO: Successfully added the cart 575.
+2023-04-21 12:29:16,222 INFO: At the beginning of remove_from_cart 566 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,223 INFO: At the beginning of publish 45 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,223 INFO: At the beginning of add_to_cart 575 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,223 INFO: At the beginning of publish 2 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,224 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 566.
+2023-04-21 12:29:16,225 INFO: Full!
+2023-04-21 12:29:16,225 INFO: Successfully added the product Tea(name='White Peach', price=5, type='White') in 575.
+2023-04-21 12:29:16,226 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 2.
+2023-04-21 12:29:16,226 INFO: At the beginning of publish 14 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,226 INFO: At the beginning of publish 0 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,227 INFO: At the beginning of remove_from_cart 566 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,228 INFO: At the beginning of add_to_cart 575 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,228 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,229 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 14.
+2023-04-21 12:29:16,230 INFO: At the beginning of publish 18 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,230 INFO: Successfully published the product Tea(name='Vietnam Oolong', price=10, type='Oolong'), from 0.
+2023-04-21 12:29:16,234 INFO: Full!
+2023-04-21 12:29:16,232 INFO: Successfully added the product Tea(name='White Peach', price=5, type='White') in 575.
+2023-04-21 12:29:16,232 INFO: Full!
+2023-04-21 12:29:16,231 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 566.
+2023-04-21 12:29:16,236 INFO: At the beginning of add_to_cart 575 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,237 INFO: Successfully placed the order 566.
+2023-04-21 12:29:16,238 INFO: Successfully added the product Tea(name='White Peach', price=5, type='White') in 575.
+2023-04-21 12:29:16,238 INFO: At the beginning of place_order 567.
+2023-04-21 12:29:16,239 INFO: At the beginning of add_to_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,240 INFO: At the beginning of remove_from_cart 567 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,240 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 575.
+2023-04-21 12:29:16,242 INFO: At the beginning of add_to_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,242 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 567.
+2023-04-21 12:29:16,243 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 575.
+2023-04-21 12:29:16,244 INFO: At the beginning of remove_from_cart 567 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,244 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,244 INFO: At the beginning of add_to_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,245 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 567.
+2023-04-21 12:29:16,246 INFO: Full!
+2023-04-21 12:29:16,246 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 575.
+2023-04-21 12:29:16,247 INFO: At the beginning of remove_from_cart 567 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,248 INFO: At the beginning of add_to_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,249 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 567.
+2023-04-21 12:29:16,249 INFO: At the beginning of publish 49 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,249 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 575.
+2023-04-21 12:29:16,250 INFO: Successfully placed the order 567.
+2023-04-21 12:29:16,251 INFO: Full!
+2023-04-21 12:29:16,251 INFO: At the beginning of add_to_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,252 INFO: At the beginning of place_order 568.
+2023-04-21 12:29:16,254 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 575.
+2023-04-21 12:29:16,254 INFO: At the beginning of remove_from_cart 568 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,255 INFO: At the beginning of add_to_cart 575 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,255 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 568.
+2023-04-21 12:29:16,256 INFO: Successfully added the product Tea(name='English Breakfast', price=2, type='Black') in 575.
+2023-04-21 12:29:16,257 INFO: At the beginning of remove_from_cart 568 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,258 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 568.
+2023-04-21 12:29:16,259 INFO: At the beginning of remove_from_cart 568 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,259 INFO: Successfully removed the product Tea(name='Jasmine', price=6, type='Green') from 568.
+2023-04-21 12:29:16,260 INFO: Successfully placed the order 568.
+2023-04-21 12:29:16,261 INFO: At the beginning of publish 26 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,261 INFO: At the beginning of new_cart.
+2023-04-21 12:29:16,261 INFO: At the beginning of place_order 569.
+2023-04-21 12:29:16,262 INFO: Full!
+2023-04-21 12:29:16,262 INFO: At the beginning of publish 1 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,263 INFO: Successfully added the cart 576.
+2023-04-21 12:29:16,264 INFO: At the beginning of remove_from_cart 569 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,266 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 1.
+2023-04-21 12:29:16,266 INFO: At the beginning of add_to_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,267 INFO: Successfully removed the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') from 569.
+2023-04-21 12:29:16,268 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 576.
+2023-04-21 12:29:16,268 INFO: At the beginning of publish 31 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,269 INFO: Successfully placed the order 569.
+2023-04-21 12:29:16,269 INFO: At the beginning of publish 30 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,270 INFO: Full!
+2023-04-21 12:29:16,271 INFO: At the beginning of place_order 570.
+2023-04-21 12:29:16,271 INFO: At the beginning of publish 17 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,271 INFO: Full!
+2023-04-21 12:29:16,273 INFO: At the beginning of remove_from_cart 570 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,273 INFO: Full!
+2023-04-21 12:29:16,274 INFO: At the beginning of publish 44 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,275 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 570.
+2023-04-21 12:29:16,275 INFO: Full!
+2023-04-21 12:29:16,276 INFO: At the beginning of remove_from_cart 570 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,277 INFO: Successfully removed the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') from 570.
+2023-04-21 12:29:16,278 INFO: At the beginning of remove_from_cart 570 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,279 INFO: At the beginning of publish 47 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,279 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 570.
+2023-04-21 12:29:16,279 INFO: Full!
+2023-04-21 12:29:16,280 INFO: At the beginning of remove_from_cart 570 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,281 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 570.
+2023-04-21 12:29:16,282 INFO: At the beginning of remove_from_cart 570 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,282 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 570.
+2023-04-21 12:29:16,283 INFO: Successfully placed the order 570.
+2023-04-21 12:29:16,285 INFO: At the beginning of new_cart.
+2023-04-21 12:29:16,285 INFO: At the beginning of place_order 572.
+2023-04-21 12:29:16,285 INFO: At the beginning of publish 48 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,286 INFO: At the beginning of publish 27 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,286 INFO: Successfully added the cart 577.
+2023-04-21 12:29:16,286 INFO: At the beginning of publish 41 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,287 INFO: At the beginning of remove_from_cart 572 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,287 INFO: Full!
+2023-04-21 12:29:16,288 INFO: Full!
+2023-04-21 12:29:16,289 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,290 INFO: Full!
+2023-04-21 12:29:16,290 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 572.
+2023-04-21 12:29:16,293 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
+2023-04-21 12:29:16,294 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,295 INFO: At the beginning of remove_from_cart 572 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,296 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,297 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
+2023-04-21 12:29:16,298 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 572.
+2023-04-21 12:29:16,299 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
+2023-04-21 12:29:16,300 INFO: Successfully placed the order 572.
+2023-04-21 12:29:16,300 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,300 INFO: At the beginning of publish 16 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,303 INFO: At the beginning of place_order 571.
+2023-04-21 12:29:16,304 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
+2023-04-21 12:29:16,306 INFO: Successfully published the product Tea(name='Pai Mu Tan', price=9, type='White'), from 16.
+2023-04-21 12:29:16,307 INFO: At the beginning of add_to_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,306 INFO: At the beginning of remove_from_cart 571 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,307 INFO: At the beginning of publish 45 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,309 INFO: Successfully added the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in 577.
+2023-04-21 12:29:16,310 INFO: Full!
+2023-04-21 12:29:16,311 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,311 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 571.
+2023-04-21 12:29:16,312 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
+2023-04-21 12:29:16,313 INFO: At the beginning of remove_from_cart 571 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,313 INFO: At the beginning of publish 3 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,314 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,315 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 571.
+2023-04-21 12:29:16,315 INFO: Successfully published the product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM'), from 3.
+2023-04-21 12:29:16,316 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
+2023-04-21 12:29:16,316 INFO: At the beginning of publish 22 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,316 INFO: At the beginning of remove_from_cart 571 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,317 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,318 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,320 INFO: Successfully published the product Tea(name='White Peach', price=5, type='White'), from 22.
+2023-04-21 12:29:16,321 INFO: At the beginning of publish 34 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,322 INFO: Successfully removed the product Tea(name='Pai Mu Tan', price=9, type='White') from 571.
+2023-04-21 12:29:16,323 INFO: At the beginning of publish 33 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,323 INFO: Full!
+2023-04-21 12:29:16,324 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
+2023-04-21 12:29:16,325 INFO: Full!
+2023-04-21 12:29:16,326 INFO: At the beginning of publish 4 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,326 INFO: At the beginning of remove_from_cart 571 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,327 INFO: Full!
+2023-04-21 12:29:16,331 INFO: Successfully published the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM'), from 4.
+2023-04-21 12:29:16,331 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 571.
+2023-04-21 12:29:16,334 INFO: Successfully placed the order 571.
+2023-04-21 12:29:16,337 INFO: At the beginning of publish 35 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,337 INFO: At the beginning of place_order 573.
+2023-04-21 12:29:16,338 INFO: At the beginning of publish 8 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,339 INFO: Full!
+2023-04-21 12:29:16,339 INFO: At the beginning of publish 19 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,340 INFO: At the beginning of remove_from_cart 573 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,340 INFO: At the beginning of publish 40 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,341 INFO: Full!
+2023-04-21 12:29:16,342 INFO: Full!
+2023-04-21 12:29:16,344 INFO: Full!
+2023-04-21 12:29:16,343 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 573.
+2023-04-21 12:29:16,346 INFO: At the beginning of remove_from_cart 573 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,347 INFO: Successfully removed the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') from 573.
+2023-04-21 12:29:16,348 INFO: Successfully placed the order 573.
+2023-04-21 12:29:16,349 INFO: At the beginning of place_order 574.
+2023-04-21 12:29:16,351 INFO: At the beginning of publish 47 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,351 INFO: At the beginning of publish 20 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,351 INFO: At the beginning of remove_from_cart 574 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,355 INFO: Full!
+2023-04-21 12:29:16,356 INFO: Full!
+2023-04-21 12:29:16,357 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 574.
+2023-04-21 12:29:16,357 INFO: At the beginning of publish 43 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,359 INFO: At the beginning of remove_from_cart 574 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,360 INFO: At the beginning of publish 13 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,360 INFO: Full!
+2023-04-21 12:29:16,360 INFO: Successfully removed the product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') from 574.
+2023-04-21 12:29:16,361 INFO: Successfully published the product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM'), from 13.
+2023-04-21 12:29:16,362 INFO: At the beginning of remove_from_cart 574 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,364 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 574.
+2023-04-21 12:29:16,365 INFO: At the beginning of remove_from_cart 574 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,367 INFO: Successfully removed the product Tea(name='Vietnam Oolong', price=10, type='Oolong') from 574.
+2023-04-21 12:29:16,368 INFO: At the beginning of publish 37 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,369 INFO: Successfully placed the order 574.
+2023-04-21 12:29:16,369 INFO: At the beginning of publish 21 Tea(name='Vietnam Oolong', price=10, type='Oolong').
+2023-04-21 12:29:16,370 INFO: At the beginning of publish 32 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,371 INFO: Full!
+2023-04-21 12:29:16,372 INFO: At the beginning of place_order 575.
+2023-04-21 12:29:16,373 INFO: Full!
+2023-04-21 12:29:16,374 INFO: Full!
+2023-04-21 12:29:16,375 INFO: At the beginning of publish 17 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,376 INFO: At the beginning of remove_from_cart 575 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,377 INFO: At the beginning of publish 44 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,378 INFO: Full!
+2023-04-21 12:29:16,378 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 575.
+2023-04-21 12:29:16,379 INFO: Full!
+2023-04-21 12:29:16,380 INFO: At the beginning of remove_from_cart 575 Tea(name='White Peach', price=5, type='White').
+2023-04-21 12:29:16,382 INFO: Successfully removed the product Tea(name='White Peach', price=5, type='White') from 575.
+2023-04-21 12:29:16,383 INFO: At the beginning of remove_from_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,385 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 575.
+2023-04-21 12:29:16,385 INFO: At the beginning of publish 11 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,387 INFO: At the beginning of publish 46 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,387 INFO: At the beginning of publish 28 Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM').
+2023-04-21 12:29:16,388 INFO: At the beginning of remove_from_cart 575 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,389 INFO: Successfully published the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM'), from 11.
+2023-04-21 12:29:16,389 INFO: At the beginning of publish 6 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,390 INFO: Full!
+2023-04-21 12:29:16,390 INFO: Full!
+2023-04-21 12:29:16,391 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 575.
+2023-04-21 12:29:16,392 INFO: At the beginning of publish 45 Tea(name='Jasmine', price=6, type='Green').
+2023-04-21 12:29:16,392 INFO: Successfully published the product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM'), from 6.
+2023-04-21 12:29:16,394 INFO: At the beginning of remove_from_cart 575 Tea(name='English Breakfast', price=2, type='Black').
+2023-04-21 12:29:16,395 INFO: Full!
+2023-04-21 12:29:16,396 INFO: At the beginning of publish 18 Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM').
+2023-04-21 12:29:16,396 INFO: Successfully removed the product Tea(name='English Breakfast', price=2, type='Black') from 575.
+2023-04-21 12:29:16,399 INFO: Full!
+2023-04-21 12:29:16,400 INFO: Successfully placed the order 575.
+2023-04-21 12:29:16,402 INFO: At the beginning of place_order 576.
+2023-04-21 12:29:16,406 INFO: At the beginning of remove_from_cart 576 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,407 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 576.
+2023-04-21 12:29:16,408 INFO: At the beginning of publish 36 Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM').
+2023-04-21 12:29:16,408 INFO: Successfully placed the order 576.
+2023-04-21 12:29:16,409 INFO: Full!
+2023-04-21 12:29:16,410 INFO: At the beginning of place_order 577.
+2023-04-21 12:29:16,411 INFO: At the beginning of remove_from_cart 577 Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,412 INFO: Successfully removed the product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') from 577.
+2023-04-21 12:29:16,413 INFO: At the beginning of publish 38 Tea(name='Pai Mu Tan', price=9, type='White').
+2023-04-21 12:29:16,414 INFO: Successfully placed the order 577.
+2023-04-21 12:29:16,415 INFO: Full!
+2023-04-21 12:29:16,418 INFO: At the beginning of publish 1 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,419 INFO: At the beginning of publish 9 Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM').
+2023-04-21 12:29:16,422 INFO: At the beginning of publish 29 Tea(name='Vietnam Oolong', price=10, type='Oolong').
