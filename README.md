@@ -1,4 +1,4 @@
-# Arhitectura Sistemelor de calcul - Tema 1 - Marketplace, Martie 2021
+# Arhitectura Sistemelor de calcul - Tema 1 - Marketplace, Martie 2023
 
 # Enunt
 http://ocw.cs.pub.ro/courses/asc/teme/tema1
