@@ -14,6 +14,7 @@ class Producer(Thread):
     """
     Class that represents a producer.
     """
+
     my_loop = bool
     sleep_time = int
     id_producer = string
@@ -36,7 +37,7 @@ class Producer(Thread):
         @param kwargs: other arguments that are passed to the Thread's __init__()
         """
 
-        super().__init__(**kwargs)
+        super(Producer, self).__init__(**kwargs)
         self.products = products
         self.marketplace = marketplace
         self.republish_wait_time = republish_wait_time
@@ -49,7 +50,7 @@ class Producer(Thread):
     def run(self):
         while self.my_loop:  # produce la infinit, pana se respecta ultima conditie si se opreste
             for curr_product in self.products:  # se parcurge lista cu produse
-                # (id, qty, sleep_time) = curr_product
+                # (id, qty, sleep_time) = curr_product -> pt a intelege fiecare parametru
                 for _ in range(0, curr_product[1]):  # se adauga cantitatea ceruta
                     if self.marketplace.publish(self.id_producer, curr_product[0]) is True:
                         # adauga in marketplace un produs + sleep dupa adaugare

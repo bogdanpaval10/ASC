@@ -36,7 +36,7 @@ class Consumer(Thread):
         :param kwargs: other arguments that are passed to the Thread's __init__()
         """
 
-        super().__init__(**kwargs)
+        super(Consumer, self).__init__(**kwargs)
         self.carts = carts
         self.marketplace = marketplace
         self.retry_wait_time = retry_wait_time
@@ -44,11 +44,19 @@ class Consumer(Thread):
         self.sleep_time = 0
         self.kwargs = kwargs
 
+    def new_cart(self):
+        """
+        It creates a new cart.
+        """
+
+        with self.marketplace.locker_all_carts:
+            cart_id = self.marketplace.new_cart()  # se creeaza un nou consumator
+
+        return cart_id
+
     def run(self):
         for curr_cart in self.carts:  # se parcurge lista de operatii pt consumator
-            with self.marketplace.locker_all_carts:
-                cart_id = self.marketplace.new_cart()  # se creeaza un nou consumator
-
+            cart_id = self.new_cart()
             for parse in curr_cart:
                 for _ in range(0, parse.get("quantity")):
                     self.my_loop = True
